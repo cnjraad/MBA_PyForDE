@@ -1,8 +1,0 @@
-# Aula 2 - Python for Data Engineer
-# Arquivo de configuração para analisar BIBTEX
----
-FILE_ACM: acm.bib
-FILE_IEE: ieee.bib
-FILE_SD: sciencedirect.bib
-FORMATO: YAML
-...
