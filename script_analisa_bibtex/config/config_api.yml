@@ -1,0 +1,8 @@
+# Aula 5 - Python for Data Engineer
+# Arquivo de configuração API
+---
+API_TOKEN_SCOPUS: dd43a9e67059d268b0a6eaf9f3d73cd4
+API_TOKEN_IEEE: zcw5heuva2mrz4an52gf32y6
+API_STRING: /'data quality' AND 'big data'
+FORMATO: JSON
+...
